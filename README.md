@@ -1,4 +1,4 @@
-# Text-to-SQL MCP 服务器
+# Text-to-SQL MCP 数据查询服务器
 
 一个基于 FastMCP 框架的安全数据库查询 MCP 服务，用于数据库查询和分析。
 
